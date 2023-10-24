@@ -18,6 +18,8 @@
     "mongoose": "^5.9.4",
     "mongoose-hidden": "^1.9.0",
     "prettier": "^2.0.2",
+    "primeicons": "^6.0.1",
+    "primeng": "^14.2.14-lts",
     "swagger-jsdoc": "^4.0.0",
     "swagger-ui-express": "^4.1.4"
   },
